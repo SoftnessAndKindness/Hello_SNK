@@ -1,0 +1,2 @@
+cursor_arrow
+cursor_crosshair
